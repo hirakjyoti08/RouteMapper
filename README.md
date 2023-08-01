@@ -8,13 +8,12 @@ RouteMapper is a Python project that allows you to plot and visualize routes on 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-When working with geographic coordinates or waypoints, it's often useful to visualize the routes between these points on a map. RouteMapper makes this task easy by taking a list of coordinates as input and generating an interactive map displaying the route between each pair of consecutive coordinates.
+When working with geographic coordinates or waypoints, visualizing the routes between them on a map is often useful. RouteMapper makes this task easy by taking a list of coordinates as input and generating an interactive map displaying the route between each pair of consecutive coordinates.
 
 The project utilizes the following Python libraries:
 
@@ -36,5 +35,11 @@ To use RouteMapper, you need to have Python installed on your system. The projec
 
 ```bash
 pip install geopy osmnx folium networkx tqdm
+```
+## Contributing
 
+Contributions to RouteMapper are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request. For major changes, it's best to discuss your ideas in an issue before implementing them.
 
+##License
+
+RouteMapper is open-source software licensed under the MIT License.
