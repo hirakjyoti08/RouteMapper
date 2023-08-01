@@ -34,7 +34,12 @@ The project utilizes the following Python libraries:
 To use RouteMapper, you need to have Python installed on your system. The project requires the following libraries, which can be installed using `pip`:
 
 ```bash
-pip install geopy osmnx folium networkx tqdm
+pip install geopy
+pip install osmnx
+pip install folium
+pip install networkx
+pip install tqdm
+
 ```
 ## Contributing
 
