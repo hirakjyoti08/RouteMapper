@@ -47,4 +47,4 @@ Contributions to RouteMapper are welcome! If you find any bugs or have suggestio
 
 ## License
 
-RouteMapper is open-source software licensed under the MIT License.
+OSMnx is open-source software licensed under the MIT License.
